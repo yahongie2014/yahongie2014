@@ -1,3 +1,5 @@
+<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Saeed </h1>
+
 <p>
 <a href="https://www.linkedin.com/in/devahmedsaeed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Coder79-blue?style=flat-square&logo=linkedin"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-Full%20Stack%20Developer-_.svg?logo=required-php/twentytwenty"></a>
@@ -23,12 +25,12 @@
 <br/>
 
 # Activities
-
+<p display="flex">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=tokyonight_duo" />
 <a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <p>
   <img align="center" src="https://img.shields.io/twitter/url?color=%23892304&label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fyahongie" />
 </p>
-
-- Credits: [Coder79](https://github.com/yahongie2014)
+</p>

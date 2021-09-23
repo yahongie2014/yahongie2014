@@ -5,7 +5,7 @@
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-Mid%20Level-_.svg?logo=react"></a>
 <a href="#"><img src="https://img.shields.io/badge/ReactNative-Mid%20Level-_.svg?logo=react"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-Mid%20Level-_.svg?logo=python"></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-Biganner%20Level-_.svg?logo=aws"></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-Advanced%20Level-_.svg?logo=aws"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
  
 </p>

@@ -1,9 +1,9 @@
 <p>
 <a href="https://www.linkedin.com/in/devahmedsaeed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Coder79-blue?style=flat-square&logo=linkedin"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-Full%20Stack%20Developer-_.svg?logo=required-php/twentytwenty"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-Mid%20Level-_.svg?logo=javascript"></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-Advanced-_.svg?logo=javascript"></a>
 <a href="#"><img src="https://img.shields.io/badge/ReactJS-Mid%20Level-_.svg?logo=react"></a>
-<a href="#"><img src="https://img.shields.io/badge/ReactNative-Mid%20Level-_.svg?logo=react"></a>
+<a href="#"><img src="https://img.shields.io/badge/ReactNative-Advanced-_.svg?logo=react"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-Mid%20Level-_.svg?logo=python"></a>
 <a href="#"><img src="https://img.shields.io/badge/AWS-Advanced%20Level-_.svg?logo=aws"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>

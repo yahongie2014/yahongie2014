@@ -7,7 +7,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Python-Mid%20Level-_.svg?logo=python"></a>
 <a href="#"><img src="https://img.shields.io/badge/AWS-Advanced%20Level-_.svg?logo=aws"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
- 
+<a href="#"><img src="https://img.shields.io/badge/%F0%9F%8D%9C-Spaghetti%20%7C%20I%20Hate%20Spaghetti%20Code%20-lightgrey?logo=Spaghetti"></a>
 </p>
 
 <br/>
@@ -30,7 +30,5 @@
 <p>
   <img align="center" src="https://img.shields.io/twitter/url?color=%23892304&label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fyahongie" />
 </p>
-#
 
-------
-Credits: [Coder79](https://github.com/yahongie2014)
+- Credits: [Coder79](https://github.com/yahongie2014)

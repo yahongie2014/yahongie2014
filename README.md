@@ -19,7 +19,6 @@
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 on : [ASK Me](https://ask.fm/yahOngie) !.
 - 📫 How to reach me:  [Email Me](mailto:a.saeed@null.net) !
-- 🌐 Visit My Web Site:  [We🌍bsite](https://coder79.online/) !
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : I Really Dont Care About World Sh*t 😋
 
@@ -27,7 +26,8 @@
 
 # Activities
 <p display="flex">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=neon-palenight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=neon-palenight&hide_border=true&date_format=%5BY.%5Dn.j" />
+<a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <p>

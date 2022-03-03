@@ -29,7 +29,7 @@
 <p display="flex">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=tokyonight_duo" />
 <a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <p>
   <img align="center" src="https://img.shields.io/twitter/url?color=%23892304&label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fyahongie" />

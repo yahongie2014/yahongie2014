@@ -27,8 +27,7 @@
 
 # Activities
 <p display="flex">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=neon-palenight&hide_border=true&date_format=%5BY.%5Dn.j" />
-<a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=neon-palenight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<a href="https://github.com/yahongie2014/yahongie2014/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <p>

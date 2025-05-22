@@ -25,5 +25,12 @@
 <br/>
 
 # Activities
+<p display="flex">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=onedark&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<p>
+  <img align="center" src="https://img.shields.io/twitter/url?color=%23892304&label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fyahongie" />
+</p>
+</p>

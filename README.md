@@ -26,5 +26,4 @@
 
 # Activities
 
-<p display="flex">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=aura-dark&hide_border=true&border_radius=5.1&short_numbers=true" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=aura-dark&hide_border=true&border_radius=5.1&short_numbers=true" alt="GitHub Streak" /></a>

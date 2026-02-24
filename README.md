@@ -30,6 +30,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yahongie2014&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </a>
 <p>
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=yahongie2014&theme=onedark&show_icons=true&bg_color=0D1117&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=yahongie2014&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 </p>
